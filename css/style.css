@@ -1,0 +1,48 @@
+/* Common CSS */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 8px;
+    padding: 20px 45px;
+}
+.btn-primary{
+    background: #E55473;
+}
+
+
+/* Header CSS */
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 850px;
+    display: flex;
+}
+
+.header-text {
+    width: 710px;
+    padding: 200px 0 0 240px;
+    margin-right: 100px;
+}
+
+.header-image {
+    height: 800px;
+    width: 640px;
+    margin-bottom: 0;
+}
+
+.main-heading {
+    color: #272727;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.header-para{
+    margin: 32px 0;
+}
