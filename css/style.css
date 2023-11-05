@@ -148,3 +148,24 @@ p {
 .hot-deal-image{
     margin: 100px 100px 100px 0;
 }
+
+/* Instagram section styles */
+
+.instagram-section{
+    padding: 130px 240px;
+    text-align: center;
+}
+.instagram-image-container{
+    display: flex;
+    gap: 25px;
+}
+
+.insta-para{
+    margin: 50px 0;
+}
+
+
+.insta-image{
+    height: 400px;
+    width: 340px;
+}
