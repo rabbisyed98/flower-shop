@@ -37,6 +37,14 @@ p {
     color: #E55473;
 }
 
+.white {
+    color: white;
+}
+
+.center{ 
+    text-align: center;
+}
+
 
 /* Header CSS */
 .header {
@@ -195,3 +203,15 @@ p {
     font-weight: 400;
     margin-right: 15px;
 }
+/* Footer styles */
+
+footer{
+    background: #111010;
+    padding: 130px 430px;
+}
+.copyrights{
+    color: rgba(255, 255, 255, 0.40);
+    margin: 32px 0 128px 0;
+}
+
+
